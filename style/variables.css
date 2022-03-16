@@ -88,12 +88,12 @@ all of MD as it is not optimized for dense, information rich UIs.
     
   /* I'm not sure if the order of these is correct. */
     
-  --jp-border-width: 1px;
-  --jp-border-color0: rgb(7, 23, 56);
-  --jp-border-color1: rgb(8, 28, 62);
-  --jp-border-color2: rgb(9, 32, 68);
-  --jp-border-color3: rgb(9, 36, 74);
-  --jp-border-radius: 2px;
+  --jp-border-width: 11px;
+  --jp-border-color0: rgb(7, 123, 56);
+  --jp-border-color1: rgb(8, 128, 62);
+  --jp-border-color2: rgb(9, 132, 68);
+  --jp-border-color3: rgb(9, 136, 74);
+  --jp-border-radius: 12px;
     
     
   /* UI Fonts
